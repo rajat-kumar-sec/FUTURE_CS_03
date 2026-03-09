@@ -1,6 +1,6 @@
 # FUTURE_CS_03: API Security Risk Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview.....
 This project is an ethical security analysis of the **JSONPlaceholder** API. [cite_start]The objective was to identify common API security risks and suggest remediation steps to secure modern SaaS integrations. [cite: 5, 12, 115]
 
 ## 🛠️ Tools Used
