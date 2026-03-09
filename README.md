@@ -7,7 +7,7 @@ This project is an ethical security analysis of the **JSONPlaceholder** API. [ci
 * [cite_start]**Postman**: For endpoint testing and response header inspection. [cite: 30, 93]
 * **Browser DevTools**: For analyzing data formats and network requests.
 
-## 🔍 Identified Security Risks
+## 🔍 Identified Security Risks.....
 1. [cite_start]**Unauthenticated Access (Medium)**: Endpoints are accessible without API keys or tokens, risking unauthorized data scraping. [cite: 92, 94]
 2. [cite_start]**Excessive Data Exposure (Low)**: The `/users` endpoint returns unnecessary geolocation data, increasing the information leakage surface. [cite: 97, 98]
 3. [cite_start]**Lack of Rate Limiting (Medium)**: Absence of throttling makes the system vulnerable to automated abuse and application-layer DoS. [cite: 100, 102]
