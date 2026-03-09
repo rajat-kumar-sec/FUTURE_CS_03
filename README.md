@@ -16,5 +16,5 @@ This project is an ethical security analysis of the **JSONPlaceholder** API. [ci
 - [cite_start]`screenshots/`: Contains proof of API testing for `/users`, `/posts`, and `/comments`. [cite: 120, 121, 122]
 - [cite_start]`Future_Interns_Task3_Vulnerability_Assessment.pdf`: The full professional audit report. [cite: 2]
 
-## ⚖️ Ethical Disclosure
+## ⚖️ Ethical Disclosure.....
 This analysis was conducted for educational purposes. [cite_start]Only safe, read-only GET requests were performed. [cite: 19, 116]
